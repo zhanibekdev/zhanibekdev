@@ -1,4 +1,8 @@
 ### Hi there 👋
+👋 Hi, I’m Zhanibek Konuspayev
+👀 I'm an C# web developer
+🔥 I’m looking to collaborate on startups / find vacancies related to C# (.NET) development
+✉️ How to reach me: zhanibekzero@protonmail.com or @zhanibekzero in Telegram
 
 <!--
 **zhanibekdev/zhanibekdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
